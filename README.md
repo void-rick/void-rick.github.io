@@ -1,1 +1,0 @@
-# void-rick.github.io
