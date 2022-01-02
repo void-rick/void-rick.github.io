@@ -1,0 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
+#story {
+    height: 326vh;
+}
