@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(img/4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    line-height: 40px;
+}
